@@ -1,7 +1,7 @@
 ---
 title: "@alpolimibot"
 Author: ric
-Lang: it
+Lang: en
 Img: /img/alpolimibot_logo.png
 layout: project
 redirect: true
